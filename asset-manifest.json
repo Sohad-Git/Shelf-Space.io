@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shelf-Space.io/static/css/main.18794a0b.css",
+    "main.js": "/Shelf-Space.io/static/js/main.2d150c04.js",
+    "static/js/453.b904cee1.chunk.js": "/Shelf-Space.io/static/js/453.b904cee1.chunk.js",
+    "index.html": "/Shelf-Space.io/index.html",
+    "main.18794a0b.css.map": "/Shelf-Space.io/static/css/main.18794a0b.css.map",
+    "main.2d150c04.js.map": "/Shelf-Space.io/static/js/main.2d150c04.js.map",
+    "453.b904cee1.chunk.js.map": "/Shelf-Space.io/static/js/453.b904cee1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18794a0b.css",
+    "static/js/main.2d150c04.js"
+  ]
+}
